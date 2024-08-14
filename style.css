@@ -1,5 +1,6 @@
 .background-container{
     position: relative;
+    max-width: 500px;
 }
 
 .middle {
@@ -18,7 +19,6 @@ body{
 }
 
 img{
-    width: 100%;
-    max-width: 640px;
+    max-width: 100%;
     height: auto;
 }
